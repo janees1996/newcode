@@ -1,0 +1,9 @@
+<?php
+$var="janees";
+$1name="samee";
+echo "hello $fname $1name";
+
+
+
+
+?> 
